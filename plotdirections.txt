@@ -1,0 +1,5 @@
+RFPdata.csv
+ySS008_RFP,k,1,-,.
+Basal1_RFP,r,1,.,-
+E_RFP,g,1,.,-
+Basal1 E RFP phenotype
